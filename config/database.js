@@ -1,4 +1,4 @@
 module.exports = {
-    database: 'mongodb://localhost:27017/LogbookApp',
+    database: 'mongodb+srv://majesty:majesty@log-book-nlcds.mongodb.net/test?retryWrites=true&w=majority',
     secret: 'barman secret'
 };
